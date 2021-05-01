@@ -1,0 +1,5 @@
+whoami
+date ; pwd ; ls
+date ; sleep 3 &
+sleep 5 & jobs
+exit

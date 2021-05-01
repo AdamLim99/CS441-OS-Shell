@@ -1,0 +1,11 @@
+
+whoami ; date ; pwd ; sleep 1 ; ls ; sleep 3 &
+fg
+gf
+
+ 
+
+sleep 1 & sleep 2 & wait ; jobs
+./hello > outfile ; cat outfile
+./hello_name < infile ; history
+  exit  

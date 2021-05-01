@@ -1,0 +1,5 @@
+date ; pwd ; ls ; echo 1 2 3
+sleep 1 ; sleep 5 & sleep 3 & jobs
+fg ; jobs
+history
+exit

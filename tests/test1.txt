@@ -1,0 +1,6 @@
+date
+pwd
+ls
+
+history
+sleep 2

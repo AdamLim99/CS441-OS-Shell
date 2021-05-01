@@ -1,0 +1,10 @@
+whoami
+
+cs441
+sleep 2
+
+
+pwd ; date ; ls ; sleep 5 & pwd
+sleep 1 ; sleep 3 & jobs
+sleep 4 & wait
+history
